@@ -1,10 +1,10 @@
-# 🧠 CodSoft Internship – Machine Learning Projects
+# CodSoft Internship – Machine Learning Projects
 
 Welcome to my Machine Learning project repository completed during the **CodSoft Internship**. This collection demonstrates practical implementation of classification algorithms on real-world datasets, with a focus on **fraud detection**, **customer behavior analysis**, and **natural language processing**.
 
 ---
 
-## 📌 Project Highlights
+## Project Highlights
 
 | #   | Project                         | Objective                                                      |
 | --- | ------------------------------- | -------------------------------------------------------------- |
@@ -16,20 +16,20 @@ Welcome to my Machine Learning project repository completed during the **CodSoft
 
 ## 💳 1. Credit Card Fraud Detection
 
-* ✅ Worked on highly **imbalanced dataset**
-* 🧪 Models: Logistic Regression, Random Forest, XGBoost
-* ⚖️ Techniques: SMOTE, Class Weights
-* 📊 Metrics: ROC-AUC, Precision-Recall, Confusion Matrix
+*  Worked on highly **imbalanced dataset**
+*  Models: Logistic Regression, Random Forest, XGBoost
+*  Techniques: SMOTE, Class Weights
+*  Metrics: ROC-AUC, Precision-Recall, Confusion Matrix
   📂 `Task2.ipynb`
 
 ---
 
 ## 📉 2. Customer Churn Prediction
 
-* 📁 Telecom-style customer data
-* 🔍 Feature Engineering on demographics and usage patterns
-* 🧠 Models: Decision Tree, Random Forest, SVM
-* 📈 Evaluation: Accuracy, F1 Score, Classification Report
+*  Telecom-style customer data
+*  Feature Engineering on demographics and usage patterns
+*  Models: Decision Tree, Random Forest, SVM
+*  Evaluation: Accuracy, F1 Score, Classification Report
   📂 `Task3.ipynb`
 
 ---
@@ -44,7 +44,7 @@ Welcome to my Machine Learning project repository completed during the **CodSoft
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Category          | Tools / Libraries                                                  |
 | ----------------- | ------------------------------------------------------------------ |
@@ -55,7 +55,7 @@ Welcome to my Machine Learning project repository completed during the **CodSoft
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * Built **end-to-end ML pipelines** for diverse problem domains
 * Gained hands-on experience with **imbalanced data**, **feature selection**, and **text classification**
