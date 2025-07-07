@@ -36,10 +36,10 @@ Welcome to my Machine Learning project repository completed during the **CodSoft
 
 ## ✉️ 3. SMS Spam Detection
 
-* 🧹 NLP Preprocessing: Lowercasing, Stopword Removal, Lemmatization
-* 🧠 Models: Naive Bayes, Logistic Regression
-* 📚 Techniques: Bag-of-Words, TF-IDF Vectorization
-* 📊 Metrics: Accuracy, Precision, Recall
+*  NLP Preprocessing: Lowercasing, Stopword Removal, Lemmatization
+*  Models: Naive Bayes, Logistic Regression
+*  Techniques: Bag-of-Words, TF-IDF Vectorization
+*  Metrics: Accuracy, Precision, Recall
   📂 `Task4.ipynb`
 
 ---
